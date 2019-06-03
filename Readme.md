@@ -1,7 +1,7 @@
 
-# model.Trade Service
+# Trade Service
 
-model.Trade service is an application which accepts incoming timestamped
+Trade service is an application which accepts incoming timestamped
 trades and is responsible for acceptance and processing.
 
 ## Getting Started
